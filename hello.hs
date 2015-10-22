@@ -1,3 +1,1 @@
-main :: IO ()
-main = do
-  print "hello world"
+main = print "TIO HASKELL NO MOLA USA JABA"
