@@ -1,5 +1,5 @@
 main :: IO ()
 main = do
-  print "TIO HASKELL NO MOLA USA JABA"
+  print "Mira Rock tio no me vasileh, si er juskell te vashila tu te cayah y lo ashimilah!"
   sentence <- getLine
   print sentence
