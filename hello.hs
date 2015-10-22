@@ -1,3 +1,5 @@
 main :: IO ()
 main = do
-  print "hello world"
+  print "Dime algo:"
+  sentence <- getLine
+  print sentence
